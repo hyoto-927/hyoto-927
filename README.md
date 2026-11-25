@@ -12,11 +12,11 @@
 
 <img src="./assets/certifications.svg" width="190" alt="SQLD · SQL 개발자 / ADsP · 데이터분석 준전문가">
 
-### Tech Stack
+### Technical Skills
 
-**Languages** &nbsp; `Java` &nbsp; `Python` &nbsp; `SQL`  
-**Framework** &nbsp; `Spring`  
-**Data & DB** &nbsp; `Oracle` &nbsp; `MySQL` &nbsp; `Tableau`
+사용해 본 기술 및 도구
+
+<img src="./assets/technical-skills.svg" width="100%" alt="Languages: Java, Python, R, SQL; Backend: Spring, Spring Boot, MyBatis; Database: Oracle, MySQL; Data Analysis: NumPy, pandas, Matplotlib; Data Collection: BeautifulSoup, Selenium; Visualization &amp; BI: Tableau, Power BI, Excel; Frontend: HTML, CSS, JavaScript, Vue.js; Version Control: Git, GitHub, GitLab; Development Tools: VS Code, Spring Tool Suite (STS), Jupyter Notebook, Google Colab, MySQL Workbench">
 
 ### Projects & Study
 

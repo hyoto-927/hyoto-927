@@ -1,4 +1,4 @@
-<img src="./assets/overview.svg" width="150" alt="hyoto.">
+<img src="./assets/wordmark.svg" width="150" alt="hyoto.">
 
 데이터 분석과 소프트웨어 개발을 공부하고 있습니다.
 

@@ -22,7 +22,7 @@
 
 ## 개발과 학습
 
-- **CodeTree**에서 배열·격자·구간 탐색 문제를 Java로 풀었습니다. [풀이 목록과 실행 예시](https://github.com/hyoto-927/codetree-java)
+- [Java 알고리즘 학습 기록](https://github.com/hyoto-927/codetree-java) · CodeTree
 - **HomeFit** · 서비스 개발 프로젝트 (비공개 저장소)
 
 ## 교육

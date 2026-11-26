@@ -20,6 +20,7 @@
 
 ### Projects & Study
 
+- [**AI 기반 주거 안정 프로젝트**](https://github.com/hyoto-927/HomeKeeper) · HomeKeeper, 수도권 주거 데이터 분석 및 지도 시각화
 - **HomeFit** · 서비스 개발 프로젝트
 - **Data Analytics** · 데이터 분석 프로젝트
 - [**Algorithm Study**](https://github.com/hyoto-927/algorithm_study) · Java 알고리즘 학습 기록

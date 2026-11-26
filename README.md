@@ -8,7 +8,7 @@
 | --- | --- |
 | [Olist 리뷰 분석 · 평점 방어와 기대매출](https://github.com/hyoto-927/olist-review-analytics) | 판매자는 어떤 불만에 먼저 대응해야 할까요? Part 2를 맡아 리뷰 이슈와 평점의 관계를 분석하고, 이슈 개선 시 위험 노출액과 평점 등급별 기대 거래액을 계산했습니다. |
 | [AI 기반 주거 안정 프로젝트 · HomeKeeper](https://github.com/hyoto-927/HomeKeeper) | 5인 팀에서 실거래가와 생활 인프라를 법정동 단위로 비교했습니다. 전세사기 실험에 사용한 가상 라벨의 생성 과정과 검증 한계를 기록했습니다. |
-| [Java 알고리즘 학습](https://github.com/hyoto-927/algorithm_study) | 배열·격자·구간 탐색 문제의 풀이 코드와 실행 예시를 정리했습니다. |
+| [CodeTree 알고리즘 풀이 · Java](https://github.com/hyoto-927/codetree-java) | 배열·격자·구간 탐색 문제의 풀이 코드와 실행 예시를 정리했습니다. |
 | HomeFit | 서비스 개발 프로젝트 · 비공개 저장소 |
 
 ### Education
